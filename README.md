@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="">
+    <img alt="Logo" title="#logo" width="300px" src="docs/logo.svg">
 </h3>
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -31,7 +31,7 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
 
 <i id="api"></i>
 
-# [Servidor - API]
+# [Servidor - API](https://github.com/GustavoBCardoso/ecoleta-server-nodejs)
 #### :rocket: Tecnologias:
  - [NodeJS](https://nodejs.org/en/)
  - [TypeScript](https://www.typescriptlang.org/)
@@ -42,7 +42,7 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
 
 <i id="web"></i>
 
-# [Aplicação WEB]
+# [Aplicação WEB](https://github.com/GustavoBCardoso/ecoleta-web-react)
 ### :rocket: Tecnologias:
  - [React](https://reactjs.org/ "ReactJS")
  - [TypeScript](https://www.typescriptlang.org/)
@@ -59,7 +59,7 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
 
 <i id="mobile"></i>
  
-# [Aplicação Mobile]
+# [Aplicação Mobile](https://github.com/GustavoBCardoso/ecoleta-mobile-react-native)
 ### :rocket: Tecnologias:
  - [React Native](https://reactnative.dev/ "React Native")
  - [TypeScript](https://www.typescriptlang.org/)
